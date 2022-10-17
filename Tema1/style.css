@@ -1,0 +1,96 @@
+.links{
+    color:white;
+    width: 100%;
+    background-color: rgb(249, 191, 222);
+    overflow: hidden;
+    margin-top: 0%;
+  
+}
+
+body{
+    font-size: 15px;
+    
+}
+
+.as{
+    padding: 8px 16px;
+    float: left;
+    width: auto;
+    display: block;
+}
+
+.xxlarge{
+    font-size: 46px;
+    align-content: center;
+}
+
+
+
+h1{
+    display: block;
+    font-family: "Oswald";
+}
+
+.headerName{
+    text-align: center;
+    color:rgb(155, 52, 107);
+    margin-top: 35px;
+    margin-bottom: 50px;
+}
+
+.aboutMe{
+    text-align: center;
+    background-color: rgb(201, 129, 177);
+    padding-block: 15px;
+}
+.pozaMea{
+    border-radius: 60%;
+    height: 100px;
+    width: 100;
+}
+
+.hello{
+    color: aliceblue;
+}
+
+.skills{
+    text-align: center;
+    background-color: rgb(220, 215, 215);
+    color: rgb(206, 108, 172);
+    padding-block: 15px;
+}
+
+.puncte{
+    size: 50px;
+    color: rgb(78, 76, 76);
+}
+
+.touch{
+    text-align: center;
+    color: rgb(155, 52, 107);;
+    padding-block: 10px;
+}
+
+.myButton {
+	box-shadow: 0px 10px 14px -7px #fbafe3;
+	background:linear-gradient(to bottom, #e09cc0 5%, #e68abd 100%);
+	background-color:#e09cc0;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:20px;
+	font-weight:bold;
+	padding:13px 32px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #e691be;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #e68abd 5%, #e09cc0 100%);
+	background-color:#e68abd;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
